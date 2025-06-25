@@ -61,3 +61,6 @@ while True:
             break
         case _:
             print("Wrong type!")
+
+print("Hello!")
+
